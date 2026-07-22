@@ -1,7 +1,7 @@
 {
   "name": "Revyoos Widget Loader",
-  "version": "1.6.0",
-  "download_url": "https://github.com/revyoos/revyoos-updates/releases/download/v1.6.0/revyoos-widget-loader-1.6.0.zip",
+  "version": "1.6.1",
+  "download_url": "https://github.com/revyoos/revyoos-updates/releases/download/v1.6.1/revyoos-widget-loader-1.6.1.zip",
   "requires": "5.0",
   "tested": "6.6",
   "requires_php": "7.2",
@@ -9,6 +9,6 @@
   "homepage": "https://www.revyoos.com",
   "sections": {
     "description": "Insert your Revyoos Universal Code into the site's <head> — no theme editing required.",
-    "changelog": "<h4>1.6.0</h4><ul><li>Docs updated to recommend versioned zip filenames.</li></ul><h4>1.5.0</h4><ul><li>Added automatic update checks.</li></ul>"
+    "changelog": "<h4>1.6.1</h4><ul><li>Dummy update to test the auto-update flow.</li></ul><h4>1.6.0</h4><ul><li>Docs updated to recommend versioned zip filenames.</li></ul><h4>1.5.0</h4><ul><li>Added automatic update checks.</li></ul>"
   }
 }
